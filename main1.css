@@ -1,0 +1,24 @@
+
+.div1{
+	background: #0048FB;
+	width: 200px;
+	height: 200px;
+	position: relative;
+
+}
+.div11{
+	width: 100px;
+	height: 100px;
+	background: #387804;
+	top: 50px;
+	left: 50px;
+	position: absolute;
+}
+.div12{
+	width: 50px;
+	height: 50px;
+	background: black;
+	left: 0px;
+	top: 0px;
+	position: absolute;
+}
